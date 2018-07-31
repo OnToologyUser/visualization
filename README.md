@@ -2,4 +2,4 @@ Este repositorio ha servido para realizar algunas pruebas sobre cómo podría cr
 
 Estas pruebas dieron lugar a nuevos requisitos en la herramienta Ontoology, y a tomar la decisión de realizar la generación del catálogo a través de la herramienta vocab y un CSV.
 
-Por esta razón, este repositorio ha dejado de mantenerse desde julio de 2018, y probablemente será eliminado en el futuro.
+Por esta razón, este repositorio ha dejado de mantenerse desde julio de 2018, y será archivado en el futuro.
